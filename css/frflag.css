@@ -1,0 +1,11 @@
+
+.frflag {
+  position: relative;
+  border: 2px solid black;
+  height: 200px;
+  width: 111px;
+  background-color: white;
+  border-left: 111px solid blue;
+  border-right: 111px solid red;
+  
+}

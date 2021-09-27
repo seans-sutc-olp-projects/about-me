@@ -1,0 +1,46 @@
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.engflag {
+  position: relative;
+  border: 2px solid black;
+  height: 200px;
+  width: 333px;
+  background-color: red;
+}
+
+.engtop-right-corner {
+  width: 157px;
+  height: 90px;
+  background-color: white;
+}
+
+.engtop-left-corner {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 157px;
+  height: 90px;
+  background-color: white;
+}
+
+.engbottom-right-corner {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 157px;
+  height: 90px;
+  background-color: white;
+}
+
+.engbottom-left-corner {
+  position: absolute;
+  bottom: 0px;
+  width: 157px;
+  height: 90px;
+  background-color: white;
+}
