@@ -1,0 +1,19 @@
+.gerflag {
+  position: relative;
+  border: 2px solid white;
+  height: 200px;
+  width: 333px;
+  background-color: red;
+}
+.gertop {
+  position: relative;
+  height: 75px;
+  width: 333px;
+  background-color: black;
+}
+.gerbottom {
+  position: relative;
+  height: 75px;
+  width: 333px;
+  background-color: yellow;
+}
