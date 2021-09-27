@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+.title {
+    background-color: #ff6600;
+    color: red;
+}
+.subtitle {
+    color: white;
+}
+body {
+    background-color: black;
+}
+.content {
+  color: light-grey;
+}
